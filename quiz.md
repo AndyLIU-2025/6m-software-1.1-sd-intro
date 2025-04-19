@@ -8,6 +8,7 @@
 - C: goto new_folder
 - D: cdir new_folder
 ---
+B
 
 ### Q2: Which of the following bash commands is used to check the current directory?
 - A: currdir
@@ -15,11 +16,13 @@
 - C: rmdir
 - D: whereis
 ---
+B
 
 ### Q3: The touch command allows the user to create files
 - A: True
 - B: False
 ---
+A
 
 ### Q4: Which of the following is an IDE?
 - A: Notepad
@@ -27,16 +30,19 @@
 - C: Vim
 - D: VSCode
 ---
+D
 
 ### Q5: Extensions can be installed in the IDEs to be able to use other functionalities?
 - A: True
 - B: False
 ---
+A
 
 ### Q6: Only the Chrome browser has a developer tool?
 - A: True
 - B: False
 ---
+B
 
 ### Q7: Which of the following can be done to access the developer tools in Chrome?
 - A: Press F12 on the keyboard
@@ -44,11 +50,13 @@
 - C: Press Ctrl+Shift+I on the keyboard
 - D: All of the above
 ---
+D
 
 ### Q8: Each programming language has a unique set of keywords and a special syntax for instructions
 - A: True
 - B: False
 ---
+A
 
 ### Q9: A ___ is used to change source code to object code?
 - A: Compiler
@@ -56,7 +64,9 @@
 - C: Reader
 - D: None of the above
 ---
+A
 
 ### Q10: Each programming language has some features that are common to each other
 - A: True
 - B: False
+A
